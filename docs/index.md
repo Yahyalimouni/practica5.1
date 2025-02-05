@@ -1,4 +1,4 @@
-# Práctica 4.1: Configuración de un servidor DNS
+# Práctica 4.1: Git & Github
 
 ## Introducción
 
